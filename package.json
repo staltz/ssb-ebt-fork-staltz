@@ -1,11 +1,11 @@
 {
-  "name": "ssb-ebt",
+  "name": "ssb-ebt-fork-staltz",
   "description": "scaleable scuttlebutt replication for ssb",
-  "version": "5.6.7",
-  "homepage": "https://github.com/ssbc/ssb-ebt",
+  "version": "5.6.7-1",
+  "homepage": "https://github.com/staltz/ssb-ebt-fork-staltz",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ssbc/ssb-ebt.git"
+    "url": "git://github.com/staltz/ssb-ebt-fork-staltz.git"
   },
   "dependencies": {
     "base64-url": "^2.2.0",
